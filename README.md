@@ -3,7 +3,7 @@
 
 <br/>
 
-* 🔭 I’m currently Open For Work
+* 🔭 I’m currently Working at [Algorizin.inc](https://algorizin.com/)
 * ⭐ All info & Project In one place [My Portfolio](https://eshtiyak-fahim.online/)
 * 🌱 I’m currently learning **everything i need**
 
