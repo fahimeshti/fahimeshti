@@ -4,7 +4,7 @@
 <br/>
 
 * 🔭 I’m currently Working at [Algorizin.inc](https://algorizin.com/)
-* ⭐ All info & Project In one place [My Portfolio](https://eshtiyak-fahim.online/)
+* ⭐ All info & Project In one place [My Portfolio](https://eshtiyak-fahim.netlify.app/)
 * 🌱 I’m currently learning **everything i need**
 
 ### Connect with me
