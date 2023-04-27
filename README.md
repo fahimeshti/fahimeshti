@@ -1,5 +1,5 @@
 # Hi there 👋, I'm [Eshtiyak Fahim](https://eshtiyak-fahim.online/)
-## A Passionate Web Developer
+## A Programming Enthusiast
 
 <br/>
 
