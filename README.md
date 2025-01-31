@@ -22,7 +22,6 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="30"/> ](https://getbootstrap.com/) 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="30"/> ](https://reactjs.org) 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="30"/> ](https://redux.js.org) 
-[<img src="https://asifjalil.netlify.app/static/media/react-router.ffe0bad9.svg" alt="react router" width="30" height="30"/> ](https://reactrouter.com/) 
 [<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="30"/> ](https://nodejs.org) 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="30"/> ](https://sass-lang.com) 
 [<img src="https://eshtiyak-fahim.netlify.app/static/media/material-ui.8e8d37c6.8e8d37c6.svg" alt="Material UI" width="40" height="30"/> ](https://material-ui.com/) 
@@ -33,9 +32,7 @@
 [<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="30"/> ](https://heroku.com) 
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="40" height="30"/> ](https://code.visualstudio.com) 
 [<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="30"/> ](https://www.figma.com) 
-[<img src="https://eshtiyak-fahim.netlify.app/static/media/adobe-photoshop.3c5835d6.3c5835d6.svg" alt="photoshop" width="40" height="30"/> ](https://www.photoshop.com/en) 
-[<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="30"/> ](https://www.adobe.com/products/xd.html) 
-
+[<img src="https://eshtiyak-fahim.netlify.app/static/media/adobe-photoshop.3c5835d6.3c5835d6.svg" alt="photoshop" width="40" height="30"/> ](https://www.photoshop.com/en)
 
 <br/>
 <br/>
