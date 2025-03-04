@@ -3,13 +3,15 @@
 
 <br/>
 
+🚀 About Me
 * 🔭 I’m currently Working at [MetaDesign Solutions](https://metadesignsolutions.com/)
 * ⭐ All info & Project In one place [My Portfolio](https://eshtiyak-fahim.netlify.app/)
 * 🌱 I’m currently learning **everything i need** to grow as a developer.
+<br/>
 
 🛠 Tech Stack
-Frontend: React (TypeScript), Next.js
-Backend: Node.js, Express, PostgreSQL, MongoDB
+* Frontend: React (TypeScript), Next.js
+* Backend: Node.js, Express, PostgreSQL, MongoDB
 
 ### Connect with me
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/eshtiyak-fahim/) 
