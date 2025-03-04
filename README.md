@@ -5,7 +5,7 @@
 
 🚀 About Me
 * 🔭 I’m currently Working at [MetaDesign Solutions](https://metadesignsolutions.com/)
-* ⭐ All info & Project In one place [My Portfolio](https://eshtiyak-fahim.netlify.app/)
+* ⭐ Explore all my projects & info on [My Portfolio](https://eshtiyak-fahim.netlify.app/)
 * 🌱 I’m currently learning **everything i need** to grow as a developer.
 <br/>
 
