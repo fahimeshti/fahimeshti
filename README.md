@@ -45,5 +45,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahimeshti&layout=compact)](https://github.com/fahimeshti)
 
-
-[![Eshtiyak's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahimeshti&count_private=true&show_icons=true)](https://github.com/fahimeshti)
