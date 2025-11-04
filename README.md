@@ -4,7 +4,7 @@
 <br/>
 
 🚀 About Me
-* 🔭 I’m currently Working at [MetaDesign Solutions](https://metadesignsolutions.com/)
+* 🔭 I’m currently Working at [Body Solutions](https://bodysolutionshc.org/) as a Software Engineer.
 * ⭐ Explore all my projects & info on [My Portfolio](https://eshtiyak-fahim.netlify.app/)
 * 🌱 I’m currently learning **everything i need** to grow as a developer.
 <br/>
