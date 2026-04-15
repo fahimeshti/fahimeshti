@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Eshtiyak Fahim](https://eshtiyak-fahim.online/)
+# Hi there 👋, I'm [Eshtiyak Fahim](https://eshtiyak-fahim.netlify.app/)
 ## A Programming Enthusiast
 
 <br/>
