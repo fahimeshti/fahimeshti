@@ -42,9 +42,3 @@
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="40" height="30"/> ](https://code.visualstudio.com) 
 [<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="30"/> ](https://www.figma.com) 
 [<img src="https://eshtiyak-fahim.netlify.app/static/media/adobe-photoshop.3c5835d6.3c5835d6.svg" alt="photoshop" width="40" height="30"/> ](https://www.photoshop.com/en)
-
-<br/>
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahimeshti&layout=compact)](https://github.com/fahimeshti)
-
