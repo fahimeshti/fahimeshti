@@ -10,8 +10,11 @@
 <br/>
 
 🛠 Tech Stack
-* Frontend: React (TypeScript), Next.js
-* Backend: Node.js, Express, PostgreSQL, MongoDB
+* Frontend: React, Next.js, TypeScript, JavaScript (ES6+), Redux Toolkit, React Query, Tailwind CSS, Material UI, HTML5, CSS3
+* Backend: Node.js, Express.js, NestJS, AdonisJS, Fastify, REST APIs, RPC, OpenAPI/Swagger, JWT, RBAC, BullMQ
+* Databases: PostgreSQL, MySQL, MongoDB, Redis, Prisma ORM, Supabase
+* DevOps & Cloud: Docker, AWS (EC2, S3, SES), GitHub Actions (CI/CD), Linux
+* Testing & Monitoring: Jest, Vitest, Sentry, PostHog, Watchdog
 
 ### Connect with me
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/eshtiyak-fahim/) 
